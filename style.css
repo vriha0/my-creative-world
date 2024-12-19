@@ -1,0 +1,565 @@
+body 
+{
+    width:fit-content;
+    height: auto;
+    min-height: 900px;
+    top: -1957px;
+    left: -737px;
+    padding: 0px 48px 0px 48px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F9F5FA;
+    justify-content: center;
+    align-items: center;
+
+}
+body 
+{
+    width: 1,440px;
+    height: 3,865px;
+    min-height: 900px;
+    top: -1957px;
+    left: -737px;
+    padding: 0px 48px 0px 48px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: rgba(249, 245, 250, 1);
+    justify-content: center;
+    align-items: center;
+
+}
+.container1
+{
+    width: 1,344px;
+    height: 75px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    gap: 0px;
+    border-bottom: 1px;
+    justify-content:space-between;
+    opacity: 0px;
+    display: flex;
+    background-color: #F9F5FA;
+    align-items: center;
+
+}
+.logo
+{
+    width:hug(282)px;
+    height:55px;
+    gap:12px;
+    opacity:0px;
+    align-items:center;
+    justify-content:center;
+    display: flex;
+   ;
+
+}
+.logo1
+{
+    width: 282px;
+    height: 30px;
+    font-family: Dela Gothic One;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50%;
+    vertical-align: baseline;
+    letter-spacing: -0.04em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color:#421934;
+}
+
+.pagelink
+{
+width:572px;
+height: 32px;
+gap: 32px;
+opacity: 0px;
+display: flex;
+;
+}
+/* .pagelink
+{
+
+width: 40vw;
+display: flex;
+gap:2rem;
+align-items: left;
+}
+.home, .projects, .about, .contact 
+{
+    font-family: Dela Gothic One;
+    font-size: 1.75rem;
+    color: #421934;
+    text-align: left;
+} */
+ /* .pagelink {
+        display: flex;
+        flex-wrap: wrap; 
+        justify-content: center; 
+        gap: 16px; 
+        width: 100%;
+        height: auto;
+        opacity: 1;
+        align-items: center;
+        margin-top: ;
+} */
+
+ .home
+{
+width: 97px;
+height: 32px;
+font-size: 28px;
+font-weight: 400;
+line-height: 0px;
+margin-top: 15px;
+letter-spacing: -0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #421934;
+font-family: 'Dela Gothic One', sans-serif;
+}
+.projects
+{
+width: 143px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+width: 143px;
+height: 32px;
+color: rgba(66, 25, 52, 1);
+font-family: Dela Gothic One;
+font-size: 28px;
+font-weight: 400;
+line-height: 0px;
+margin-top: 15px;
+letter-spacing: -0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.about
+{
+width: 101px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Dela Gothic One;
+font-size: 28px;
+font-weight: 400;
+line-height: 0px;
+margin-top: 15px;
+letter-spacing: -0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(66, 25, 52, 1);
+}
+.contact
+{
+width: 135px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Dela Gothic One;
+font-size: 28px;
+font-weight: 400;
+line-height: 0px;
+margin-top: 15px;
+letter-spacing: -0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(66, 25, 52, 1);
+
+}  
+.divider {
+    width: 100%;
+    border: 1px solid rgba(34, 27, 32, 0.16);
+}
+
+.container
+{
+width: fit-content;
+
+}
+.main-content
+{
+width: 1344px;
+height: 3521px;
+background-color: aqua;
+}
+.landing-page
+{
+width: 100%;
+margin-bottom: 70px;
+border-bottom: 1px;
+background-color:#F9F5FA;
+margin-left: auto; 
+margin-right: auto;
+}
+.title
+{
+width:1344px;
+height: 240px;
+font-family: 'Dela Gothic One', sans-serif;
+font-weight: 400;
+font-size: 120px;
+line-height: 120px;
+letter-spacing: -2%;
+text-align: center;
+color: #421934;
+gap: 0px;
+margin-bottom: 100px;
+
+
+}
+.img1
+{
+width: 100%;
+height: 672px;
+border-radius: 22px;
+border: 1px solid #000000;
+
+} 
+  .Personl 
+  {
+    
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+      
+  }
+  
+  .Personl > div {
+    background-color: white;
+    border-radius: 10px; /* Rounded corners for each project box */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+    overflow: hidden; /* Prevents any content from overflowing */
+  }
+  
+  .Person .project1, .Person .project2, .Person .project3,
+  .Person .project4, .Person .project5, .Person .project6,
+  .Person .project7, .Person .project8, .Person .project9 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .Personl img {
+    width: 100%; /* Makes images responsive, adjust as needed */
+    height: auto;
+    border-radius: 8px; /* Optional: adds rounded corners to images */
+  }
+  
+  .text1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .text2 {
+    font-size: 14px;
+    color: #777; /* Light grey color for the subtitle */
+  }
+      
+
+.Portfolio
+{
+width: Fill (1,344px)px;
+height: Hug (504px)px;
+padding: 96px 0px 96px 0px;
+gap: 0px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+background-color: rgba(249, 245, 250, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+.paragraph
+{
+width: 900px;
+height: 312px;
+max-width: 900px;
+gap: 0px;
+opacity: 0px;
+font-family: Dela Gothic One;
+font-size: 48px;
+font-weight: 400;
+line-height: 52px;
+letter-spacing: -0.01em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(66, 25, 52, 1);
+
+
+}
+.text-para
+{
+width: Fill (1,344px)px;
+height: Hug (250px)px;
+padding: 48px 0px 48px 0px;
+gap: 48px;
+opacity: 0px;
+background: rgba(249, 245, 250, 1);
+display: flex;
+justify-content: baseline;
+
+}
+.text-paraspace
+{
+width: 648px;
+height: 154px;
+gap: 0px;
+opacity: 0px;
+
+}
+.text-para1
+{
+width: 648px;
+height: 154px;
+gap: 0px;
+opacity: 0px;
+font-family: Sen;
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: -0.005em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  rgba(66, 25, 52, 1);
+
+}
+.event-landing
+{
+width: fill(1,344 px);
+height: Hug (424px);
+padding-top: 96px;
+padding-bottom: 96px;
+gap: 48px;
+border-bottom: 1px;
+opacity: 0px;
+background-color: #F9F5FA;
+display: grid;
+place-items:center;
+
+}
+.stay-connected
+{
+width: 321px;
+height: 40px;
+max-width: 720px;
+gap: 0px;
+opacity: 0px;
+font-family: Dela Gothic One;
+font-size: 34px;
+font-weight: 400;
+line-height:40px;
+letter-spacing: -0.01em;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:rgba(66, 25, 52, 1);
+margin-bottom: 0px;
+}
+.input-container
+{
+height: 48px;
+width: 600px;
+gap:12px;
+display: flex;
+/* margin-top:; */
+}
+.email
+{
+width: 432px;
+height: 48px;
+border-radius: 8px;
+border: 1px solid rgba(34, 27, 32, 0.16);
+gap: 8px;
+background-color: #DECFD9;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.email-text
+{
+width: 408px;
+height: 24px;
+font-family: sen;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: rgba(66,25,52,0.4);
+}
+.button
+{
+width: 156px;
+height: 48px;
+border-radius: 8px;
+background-color: rgba(205,55,153,1);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.sub
+{
+width: 108px;
+height: 24px;
+font-family: DM Mono;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: rgba(255,250,253,1);
+}
+.social
+{
+width:208px;
+height: 48px;
+gap:32px;
+
+display: flex;
+justify-content: space-between;
+}
+.personal-webside-footer
+{
+width: 1344px;
+height: 168px;
+border-top: 1px;
+padding-top: 96px;
+padding-bottom: 24px;
+gap: 24px;
+background-color: #F9F5FA;
+margin-top: 355px;
+}
+.containerf
+{
+width: 1344px;
+height: 48px;
+display: flex;
+justify-content: space-between;
+
+margin-top: 110px;
+
+
+}
+.pagelink1
+{
+width: 327px;
+height: 32px;
+gap:32px;
+
+margin-top: 8px;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+.contact1
+{
+width: 132px;
+height: 48px;
+border-radius: 8px;
+border: 1px solid rgba(34,27,32,0.16);
+
+}
+.pagelink-text
+{
+width: 327px;
+height: 32px;
+font-family: Dela Gothic One;
+font-weight: 400px;
+font-size: 27px;
+color:rgba(66,25,52,0.62);
+margin-top: 12px;
+}
+.c
+{
+width: 84px;
+height: 24px;
+font-family: DM Mono;
+font-weight: 500;
+font-size: 20px;
+margin-top: 10px;
+margin-left: 25px;
+}
+.I3
+{
+width: 48px;
+height: 48px;
+}
+
+@media (max-width: 1024px) {
+    .logo1 {
+        font-size: 2rem; 
+    }
+
+    .pagelink > div {
+        font-size: 24px; 
+    }
+}
+
+
+@media (max-width: 768px) {
+    body {
+        padding: 16px;
+    }
+
+    .logo {
+        width: auto;
+        justify-content: flex-start;
+    }
+
+    .logo1 {
+        font-size: 1.5rem; 
+    }
+
+    .container1 {
+        flex-direction: column; 
+        align-items: flex-start; 
+    }
+
+    .pagelink {
+        justify-content: flex-start; 
+        gap: 8px; 
+    }
+
+    
+}
+
+@media (max-width: 576px) {
+    .logo1 {
+        font-size: 1.25rem;
+    }
+
+
+    .divider {
+        display: none;
+    }
+}
+@media (max-width: 1024px) {
+    .logo1, .home, .projects, .about, .contact {
+        font-size: 1.25rem;
+    }
+}
+@media (max-width: 768px) {
+    .logo1, .home, .projects, .about, .contact {
+        font-size: 1rem;
+    }
+}
+@media (max-width: 480px) {
+    .logo1, .home, .projects, .about, .contact {
+        font-size: 0.85rem;
+    }
+}
